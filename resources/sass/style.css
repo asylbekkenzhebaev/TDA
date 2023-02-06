@@ -1,0 +1,20 @@
+.td-action {
+    display: flex;
+}
+
+#clipboard {
+    cursor: pointer;
+}
+
+.turn-popup{
+    font-size: 25px;
+}
+
+.show-btns {
+    font-size: 15px;
+}
+
+.bi-clipboard-check {
+    display: none;
+}
+
